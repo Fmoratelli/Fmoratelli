@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Fmoratelli<br>👀 I’m interested in Front-End Development and Design - HTML, CSS, JS, REACT, SQL and PYTHON - ADOBE photoshop, after effects and lightroom.<br>🌱 I’m currently learning CSS, JavaScript, REACT.js, NODE.js.<br>💞️ I’m looking to collaborate on Front-end inovative and criative projects!<br> 💞️ Also I am passionate about design and photography.<br>📫 How to reach me fabimoratelli@hotmail.com (+55) 54 981135272
+👋 Hi, I’m @Fmoratelli<br>👀 I’m interested in Front-End Development and Design - Html5 - Css3 - JavaScript - React.Js - Node.Js - Adobe XD - photoshop - after effects and lightroom.<br>🌱 I’m currently learning CSS, JavaScript, REACT.js, NODE.js.<br>💞️ I’m looking to collaborate on Front-end inovative and criative projects!<br> 💞️ Also I am passionate about design and photography.<br>📫 How to reach me fabimoratelli@hotmail.com (+55) 54 981135272
 
 
 ## 🌐 Socials:
