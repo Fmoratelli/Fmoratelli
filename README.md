@@ -1,24 +1,133 @@
-# 💫 About Me:
-🔭 I’m currently working on Business Intelligence, Analytics, and Data Science<br>👯 I’m looking to collaborate on Innovative and criative Data Analytics and Visualization projects<br>🤝 I’m looking for help with Machine Learning<br>🌱 I’m currently learning Python and Machine Learning<br>💬 Ask me about Power Bi, SQL, Python, Azure, Databricks, Excel, Figma and PowerApps<br>⚡ It's all about Design, Data and Business
+# Carreira com IA - Landing Page
 
+Uma landing page moderna e responsiva para promover o método de desenvolvimento de carreira com Inteligência Artificial da Fabi Moratelli.
 
-## 🌐 Socials:
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://fabimoratellia5d1.myportfolio.com/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/afabimoratelli/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/fabiana-moratelli-🏳️‍🌈-09a03811b) 
+## 🚀 Funcionalidades
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=azure-devops&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=flat&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=flat&logo=adobeindesign&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Fmoratelli&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Fmoratelli&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fmoratelli&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+- **Design Moderno**: Interface limpa e profissional com gradientes suaves
+- **Totalmente Responsivo**: Adaptado para desktop, tablet e mobile
+- **Componentes Reutilizáveis**: Construído com shadcn/ui para máxima flexibilidade
+- **Performance Otimizada**: Utilizando Next.js 15 com Turbopack
+- **TypeScript**: Código tipado para maior confiabilidade
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Fmoratelli&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+## 📋 Seções da Landing Page
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🎯 Hero Section
+- Título principal impactante
+- Descrição da proposta de valor
+- Call-to-action principal
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+### 🛤️ Jornada com IA
+Cards apresentando as 5 etapas do método:
+- **Despertar**: Entenda o que é IA e como ela muda o jogo
+- **Exploração**: Identifique onde aplicar IA no seu contexto
+- **Experimentação**: Comece a usar ferramentas e criar valor
+- **Autoridade**: Desenvolva projetos próprios e se posicione
+- **Futurabilidade**: Evolua continuamente com visão estratégica
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 👩‍💼 Sobre Fabi Moratelli
+Apresentação da especialista e criadora do método
+
+### 🎯 Call-to-Action Final
+Convite para fazer o teste de perfil
+
+## 🛠️ Tecnologias Utilizadas
+
+- **Next.js 15** - Framework React com App Router
+- **TypeScript** - Tipagem estática
+- **Tailwind CSS** - Framework CSS utilitário
+- **shadcn/ui** - Biblioteca de componentes
+- **Lucide React** - Ícones
+- **Class Variance Authority** - Utilitário para variantes de componentes
+
+## 🚀 Como Executar
+
+### Pré-requisitos
+- Node.js 18+ 
+- npm ou yarn
+
+### Instalação
+
+1. Clone o repositório:
+```bash
+git clone [URL_DO_REPOSITORIO]
+cd carreira-com-ia
+```
+
+2. Instale as dependências:
+```bash
+npm install
+```
+
+3. Execute o servidor de desenvolvimento:
+```bash
+npm run dev
+```
+
+4. Abra [http://localhost:3000](http://localhost:3000) no seu navegador
+
+## 📁 Estrutura do Projeto
+
+```
+src/
+├── app/
+│   ├── globals.css          # Estilos globais e variáveis CSS
+│   ├── layout.tsx           # Layout raiz da aplicação
+│   └── page.tsx             # Página principal (HomePage)
+├── components/
+│   └── ui/
+│       ├── button.tsx       # Componente Button
+│       └── card.tsx         # Componentes Card e CardContent
+└── lib/
+    └── utils.ts             # Utilitários (função cn para className)
+```
+
+## 🎨 Design System
+
+O projeto utiliza um design system baseado em:
+
+- **Cores**: Paleta neutra com tons de cinza e gradientes suaves
+- **Tipografia**: Fonte system com hierarquia clara
+- **Espaçamento**: Sistema consistente baseado em Tailwind
+- **Componentes**: shadcn/ui com customizações para a marca
+
+## 📱 Responsividade
+
+A landing page é totalmente responsiva com breakpoints:
+- **Mobile**: < 768px
+- **Tablet**: 768px - 1024px  
+- **Desktop**: > 1024px
+
+## 🔧 Scripts Disponíveis
+
+```bash
+npm run dev          # Servidor de desenvolvimento
+npm run build        # Build para produção
+npm run start        # Servidor de produção
+npm run lint         # Linting do código
+```
+
+## 🚀 Deploy
+
+O projeto está configurado para deploy fácil em plataformas como:
+- **Vercel** (recomendado)
+- **Netlify** 
+- **AWS Amplify**
+
+Para deploy na Vercel:
+```bash
+npm i -g vercel
+vercel
+```
+
+## 📄 Licença
+
+Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## 👥 Contribuição
+
+Contribuições são bem-vindas! Por favor, abra uma issue ou pull request para sugestões e melhorias.
+
+---
+
+Desenvolvido com ❤️ para promover a democratização da Inteligência Artificial na carreira e negócios.
